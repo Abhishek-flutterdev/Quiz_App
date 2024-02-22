@@ -16,6 +16,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-  uses-material-design: true,
+  uses-material-design: true
   assets:
-  - assets\
+  - assets/TrophyImage2.png
+  - assets/Quiz-PNG-HD.png
